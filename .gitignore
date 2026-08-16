@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 测试产物 / 临时文件
+*.tmp/
+*.docx
+!标准版模板.docx
+*_修正.docx
+test_*.json
